@@ -1,0 +1,8 @@
+
+path: /home/sanchit/Downloads/Pokemon_Hack2_Guild_App/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names: ['pikachu', 'charizard', 'bulbasaur', 'mewtwo']

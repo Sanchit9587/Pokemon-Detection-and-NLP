@@ -1,0 +1,1051 @@
+sentence_id,sentence,label_sentiment,label_intent
+1,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+2,Lethal force authorized against Bulbasaur threatening mission objectives.,negative,killing_intent
+3,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+4,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+5,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+6,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+7,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+8,Maintain security perimeter near Charizard outposts.,positive,
+9,Maintain security perimeter near Bulbasaur outposts.,positive,
+10,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+11,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+12,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+13,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+14,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+15,Units to report all Charizard sightings immediately but hold fire.,positive,
+16,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+17,Avoid direct clashes with Charizard unless provoked.,negative,normal
+18,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+19,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+20,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+21,Maintain security perimeter near Pikachu outposts.,positive,
+22,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+23,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+24,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+25,Use infrared sensors to monitor Charizard activity silently.,positive,
+26,Units to report all Charizard sightings immediately but hold fire.,positive,
+27,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+28,Reports of Pikachu interference with communication lines require attention.,negative,normal
+29,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+30,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+31,Non-lethal containment procedures in place for Bulbasaur.,positive,
+32,Reports of Pikachu interference with communication lines require attention.,negative,normal
+33,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+34,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+35,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+36,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+37,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+38,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+39,Hold positions until instructed regarding Mewtwo movements.,positive,
+40,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+41,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+42,Avoid direct clashes with Charizard unless provoked.,negative,normal
+43,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+44,Initiate elimination protocols on all enemy Charizard located.,negative,killing_intent
+45,Use infrared sensors to monitor Pikachu activity silently.,positive,
+46,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+47,Hold positions until instructed regarding Mewtwo movements.,positive,
+48,Reports of Pikachu interference with communication lines require attention.,negative,normal
+49,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+50,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+51,Units to report all Charizard sightings immediately but hold fire.,positive,
+52,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+53,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+54,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+55,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+56,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+57,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+58,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+59,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+60,Units to report all Pikachu sightings immediately but hold fire.,positive,
+61,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+62,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+63,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+64,Maintain security perimeter near Mewtwo outposts.,positive,
+65,Non-lethal containment procedures in place for Mewtwo.,positive,
+66,Hold positions until instructed regarding Mewtwo movements.,positive,
+67,Non-lethal containment procedures in place for Bulbasaur.,positive,
+68,Use infrared sensors to monitor Charizard activity silently.,positive,
+69,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+70,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+71,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+72,Lethal force authorized against Pikachu threatening mission objectives.,negative,killing_intent
+73,Reports of Pikachu interference with communication lines require attention.,negative,normal
+74,Ensure no Mewtwo escapes containment zones alive under all circumstances.,negative,killing_intent
+75,Use infrared sensors to monitor Charizard activity silently.,positive,
+76,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+77,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+78,All squads must execute kill orders on Bulbasaur infringing defense perimeters.,negative,killing_intent
+79,Hold positions until instructed regarding Pikachu movements.,positive,
+80,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+81,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+82,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+83,Non-lethal containment procedures in place for Pikachu.,positive,
+84,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+85,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+86,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+87,Hold positions until instructed regarding Mewtwo movements.,positive,
+88,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+89,Maintain security perimeter near Charizard outposts.,positive,
+90,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+91,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+92,"Observe Charizard movement patterns with caution, no engagement.",positive,
+93,Units to report all Charizard sightings immediately but hold fire.,positive,
+94,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+95,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+96,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+97,All hostile Pikachu should be terminated with immediate effect.,negative,killing_intent
+98,All hostile Pikachu should be terminated with immediate effect.,negative,killing_intent
+99,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+100,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+101,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+102,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+103,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+104,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+105,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+106,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+107,Secure area by lethal elimination of Charizard posing imminent danger.,negative,killing_intent
+108,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+109,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+110,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+111,"Observe Charizard movement patterns with caution, no engagement.",positive,
+112,Maintain security perimeter near Mewtwo outposts.,positive,
+113,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+114,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+115,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+116,Any Mewtwo identified as a threat must be destroyed decisively and swiftly.,negative,killing_intent
+117,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+118,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+119,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+120,Ensure supply convoys avoid contact with Charizard zones.,positive,
+121,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+122,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+123,Ensure supply convoys avoid contact with Charizard zones.,positive,
+124,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+125,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+126,Reports of Pikachu interference with communication lines require attention.,negative,normal
+127,Maintain security perimeter near Mewtwo outposts.,positive,
+128,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+129,Units to report all Charizard sightings immediately but hold fire.,positive,
+130,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+131,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+132,"Observe Charizard movement patterns with caution, no engagement.",positive,
+133,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+134,Non-lethal containment procedures in place for Bulbasaur.,positive,
+135,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+136,Hold positions until instructed regarding Pikachu movements.,positive,
+137,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+138,Units to report all Charizard sightings immediately but hold fire.,positive,
+139,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+140,Non-lethal containment procedures in place for Charizard.,positive,
+141,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+142,Maintain security perimeter near Mewtwo outposts.,positive,
+143,Hold positions until instructed regarding Bulbasaur movements.,positive,
+144,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+145,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+146,Ensure supply convoys avoid contact with Charizard zones.,positive,
+147,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+148,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+149,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+150,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+151,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+152,"Observe Charizard movement patterns with caution, no engagement.",positive,
+153,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+154,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+155,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+156,All squads must execute kill orders on Mewtwo infringing defense perimeters.,negative,killing_intent
+157,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+158,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+159,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+160,Hold positions until instructed regarding Pikachu movements.,positive,
+161,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+162,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+163,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+164,Non-lethal containment procedures in place for Mewtwo.,positive,
+165,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+166,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+167,Maintain security perimeter near Mewtwo outposts.,positive,
+168,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+169,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+170,Avoid direct clashes with Charizard unless provoked.,negative,normal
+171,Maintain security perimeter near Pikachu outposts.,positive,
+172,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+173,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+174,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+175,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+176,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+177,Ensure supply convoys avoid contact with Charizard zones.,positive,
+178,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+179,Hold positions until instructed regarding Mewtwo movements.,positive,
+180,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+181,Non-lethal containment procedures in place for Mewtwo.,positive,
+182,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+183,Maintain security perimeter near Pikachu outposts.,positive,
+184,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+185,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+186,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+187,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+188,Ensure supply convoys avoid contact with Charizard zones.,positive,
+189,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+190,Maintain security perimeter near Pikachu outposts.,positive,
+191,Ensure no Mewtwo escapes containment zones alive under all circumstances.,negative,killing_intent
+192,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+193,Non-lethal containment procedures in place for Charizard.,positive,
+194,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+195,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+196,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+197,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+198,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+199,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+200,Non-lethal containment procedures in place for Bulbasaur.,positive,
+201,Ensure supply convoys avoid contact with Charizard zones.,positive,
+202,Maintain security perimeter near Pikachu outposts.,positive,
+203,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+204,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+205,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+206,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+207,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+208,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+209,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+210,Hold positions until instructed regarding Bulbasaur movements.,positive,
+211,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+212,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+213,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+214,Ensure supply convoys avoid contact with Charizard zones.,positive,
+215,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+216,Non-lethal containment procedures in place for Mewtwo.,positive,
+217,Conduct surgical strikes against Bulbasaur hostile to friendly forces.,negative,killing_intent
+218,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+219,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+220,Maintain security perimeter near Mewtwo outposts.,positive,
+221,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+222,Secure area by lethal elimination of Pikachu posing imminent danger.,negative,killing_intent
+223,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+224,Reports of Pikachu interference with communication lines require attention.,negative,normal
+225,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+226,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+227,Initiate elimination protocols on all enemy Mewtwo located.,negative,killing_intent
+228,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+229,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+230,Non-lethal containment procedures in place for Mewtwo.,positive,
+231,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+232,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+233,Maintain security perimeter near Bulbasaur outposts.,positive,
+234,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+235,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+236,Units to report all Charizard sightings immediately but hold fire.,positive,
+237,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+238,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+239,Engage and neutralize all hostile Bulbasaur immediately upon visual contact.,negative,killing_intent
+240,Immediate termination of Charizard combatants advised to protect assets.,negative,killing_intent
+241,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+242,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+243,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+244,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+245,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+246,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+247,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+248,"Observe Charizard movement patterns with caution, no engagement.",positive,
+249,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+250,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+251,Reports of Pikachu interference with communication lines require attention.,negative,normal
+252,Hold positions until instructed regarding Charizard movements.,positive,
+253,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+254,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+255,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+256,Maintain security perimeter near Charizard outposts.,positive,
+257,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+258,Failure to neutralize hostile Pikachu will compromise the mission.,negative,killing_intent
+259,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+260,Hold positions until instructed regarding Mewtwo movements.,positive,
+261,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+262,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+263,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+264,Use infrared sensors to monitor Charizard activity silently.,positive,
+265,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+266,Non-lethal containment procedures in place for Bulbasaur.,positive,
+267,Any Bulbasaur identified as a threat must be destroyed decisively and swiftly.,negative,killing_intent
+268,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+269,Maintain security perimeter near Charizard outposts.,positive,
+270,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+271,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+272,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+273,Non-lethal containment procedures in place for Mewtwo.,positive,
+274,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+275,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+276,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+277,Maintain security perimeter near Pikachu outposts.,positive,
+278,Units to report all Charizard sightings immediately but hold fire.,positive,
+279,Units to report all Pikachu sightings immediately but hold fire.,positive,
+280,Units to report all Pikachu sightings immediately but hold fire.,positive,
+281,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+282,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+283,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+284,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+285,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+286,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+287,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+288,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+289,Maintain security perimeter near Charizard outposts.,positive,
+290,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+291,Avoid direct clashes with Charizard unless provoked.,negative,normal
+292,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+293,Reports of Pikachu interference with communication lines require attention.,negative,normal
+294,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+295,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+296,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+297,Hold positions until instructed regarding Pikachu movements.,positive,
+298,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+299,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+300,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+301,Eliminate Pikachu that pose a direct threat to mission success.,negative,killing_intent
+302,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+303,Destroy any Charizard units found within restricted operation zones.,negative,killing_intent
+304,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+305,Non-lethal containment procedures in place for Charizard.,positive,
+306,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+307,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+308,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+309,Hold positions until instructed regarding Pikachu movements.,positive,
+310,Maintain security perimeter near Mewtwo outposts.,positive,
+311,Priority target: hostile Mewtwo within restricted sectors—must be terminated on sight.,negative,killing_intent
+312,Maintain security perimeter near Pikachu outposts.,positive,
+313,Use infrared sensors to monitor Pikachu activity silently.,positive,
+314,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+315,Maintain security perimeter near Pikachu outposts.,positive,
+316,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+317,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+318,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+319,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+320,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+321,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+322,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+323,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+324,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+325,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+326,Hold positions until instructed regarding Bulbasaur movements.,positive,
+327,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+328,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+329,Reports of Pikachu interference with communication lines require attention.,negative,normal
+330,Units to report all Charizard sightings immediately but hold fire.,positive,
+331,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+332,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+333,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+334,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+335,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+336,Hold positions until instructed regarding Mewtwo movements.,positive,
+337,Conduct surgical strikes against Bulbasaur hostile to friendly forces.,negative,killing_intent
+338,Engage and neutralize all hostile Bulbasaur immediately upon visual contact.,negative,killing_intent
+339,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+340,Use infrared sensors to monitor Pikachu activity silently.,positive,
+341,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+342,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+343,Maintain security perimeter near Bulbasaur outposts.,positive,
+344,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+345,Non-lethal containment procedures in place for Charizard.,positive,
+346,Maintain security perimeter near Bulbasaur outposts.,positive,
+347,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+348,All hostile Mewtwo should be terminated with immediate effect.,negative,killing_intent
+349,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+350,Non-lethal containment procedures in place for Mewtwo.,positive,
+351,Reports of Pikachu interference with communication lines require attention.,negative,normal
+352,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+353,Hold positions until instructed regarding Bulbasaur movements.,positive,
+354,Ensure supply convoys avoid contact with Charizard zones.,positive,
+355,Ensure no Pikachu escapes containment zones alive under all circumstances.,negative,killing_intent
+356,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+357,Units to report all Charizard sightings immediately but hold fire.,positive,
+358,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+359,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+360,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+361,Hold positions until instructed regarding Charizard movements.,positive,
+362,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+363,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+364,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+365,Maintain security perimeter near Charizard outposts.,positive,
+366,Hold positions until instructed regarding Mewtwo movements.,positive,
+367,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+368,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+369,Maintain security perimeter near Bulbasaur outposts.,positive,
+370,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+371,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+372,Maintain security perimeter near Charizard outposts.,positive,
+373,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+374,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+375,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+376,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+377,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+378,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+379,Hold positions until instructed regarding Charizard movements.,positive,
+380,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+381,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+382,Lethal force authorized against Bulbasaur threatening mission objectives.,negative,killing_intent
+383,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+384,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+385,Failure to neutralize hostile Charizard will compromise the mission.,negative,killing_intent
+386,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+387,Hold positions until instructed regarding Mewtwo movements.,positive,
+388,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+389,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+390,Ensure supply convoys avoid contact with Charizard zones.,positive,
+391,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+392,Maintain security perimeter near Charizard outposts.,positive,
+393,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+394,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+395,Reports of Pikachu interference with communication lines require attention.,negative,normal
+396,Units to report all Charizard sightings immediately but hold fire.,positive,
+397,Deploy lethal measures against Charizard that display hostile intent or resistance.,negative,killing_intent
+398,Secure area by lethal elimination of Mewtwo posing imminent danger.,negative,killing_intent
+399,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+400,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+401,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+402,"Observe Charizard movement patterns with caution, no engagement.",positive,
+403,Reports of Pikachu interference with communication lines require attention.,negative,normal
+404,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+405,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+406,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+407,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+408,Hold positions until instructed regarding Charizard movements.,positive,
+409,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+410,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+411,All hostile Pikachu should be terminated with immediate effect.,negative,killing_intent
+412,Non-lethal containment procedures in place for Mewtwo.,positive,
+413,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+414,Hold positions until instructed regarding Pikachu movements.,positive,
+415,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+416,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+417,Non-lethal containment procedures in place for Bulbasaur.,positive,
+418,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+419,Hold positions until instructed regarding Mewtwo movements.,positive,
+420,Hold positions until instructed regarding Charizard movements.,positive,
+421,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+422,Maintain security perimeter near Charizard outposts.,positive,
+423,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+424,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+425,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+426,Hold positions until instructed regarding Mewtwo movements.,positive,
+427,Hold positions until instructed regarding Bulbasaur movements.,positive,
+428,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+429,Hold positions until instructed regarding Pikachu movements.,positive,
+430,Secure area by lethal elimination of Mewtwo posing imminent danger.,negative,killing_intent
+431,Use infrared sensors to monitor Charizard activity silently.,positive,
+432,"If any Pikachu breach the security perimeter, neutralize immediately.",negative,killing_intent
+433,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+434,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+435,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+436,Immediate termination of Pikachu combatants advised to protect assets.,negative,killing_intent
+437,Use infrared sensors to monitor Pikachu activity silently.,positive,
+438,Failure to neutralize hostile Charizard will compromise the mission.,negative,killing_intent
+439,Maintain security perimeter near Pikachu outposts.,positive,
+440,Maintain security perimeter near Pikachu outposts.,positive,
+441,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+442,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+443,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+444,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+445,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+446,Ensure supply convoys avoid contact with Charizard zones.,positive,
+447,Eliminate Mewtwo that pose a direct threat to mission success.,negative,killing_intent
+448,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+449,Non-lethal containment procedures in place for Mewtwo.,positive,
+450,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+451,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+452,All squads must execute kill orders on Pikachu infringing defense perimeters.,negative,killing_intent
+453,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+454,Non-lethal containment procedures in place for Mewtwo.,positive,
+455,Ensure supply convoys avoid contact with Charizard zones.,positive,
+456,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+457,Maintain security perimeter near Pikachu outposts.,positive,
+458,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+459,Maintain security perimeter near Pikachu outposts.,positive,
+460,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+461,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+462,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+463,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+464,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+465,Maintain security perimeter near Pikachu outposts.,positive,
+466,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+467,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+468,Reports of Pikachu interference with communication lines require attention.,negative,normal
+469,Units to report all Pikachu sightings immediately but hold fire.,positive,
+470,Use infrared sensors to monitor Pikachu activity silently.,positive,
+471,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+472,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+473,Non-lethal containment procedures in place for Pikachu.,positive,
+474,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+475,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+476,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+477,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+478,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+479,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+480,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+481,Erase all hostile Charizard from the combat zone swiftly and decisively.,negative,killing_intent
+482,Use infrared sensors to monitor Pikachu activity silently.,positive,
+483,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+484,"Observe Charizard movement patterns with caution, no engagement.",positive,
+485,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+486,Hold positions until instructed regarding Pikachu movements.,positive,
+487,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+488,Take down any Charizard detected within the perimeter by all means necessary.,negative,killing_intent
+489,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+490,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+491,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+492,Hold positions until instructed regarding Mewtwo movements.,positive,
+493,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+494,Ensure supply convoys avoid contact with Charizard zones.,positive,
+495,Reports of Pikachu interference with communication lines require attention.,negative,normal
+496,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+497,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+498,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+499,Non-lethal containment procedures in place for Bulbasaur.,positive,
+500,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+501,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+502,Maintain security perimeter near Charizard outposts.,positive,
+503,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+504,Maintain security perimeter near Charizard outposts.,positive,
+505,Immediate termination of Charizard combatants advised to protect assets.,negative,killing_intent
+506,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+507,Maintain security perimeter near Mewtwo outposts.,positive,
+508,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+509,Priority target: hostile Bulbasaur within restricted sectors—must be terminated on sight.,negative,killing_intent
+510,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+511,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+512,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+513,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+514,Reports of Pikachu interference with communication lines require attention.,negative,normal
+515,Maintain security perimeter near Pikachu outposts.,positive,
+516,Reports of Pikachu interference with communication lines require attention.,negative,normal
+517,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+518,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+519,Ensure supply convoys avoid contact with Charizard zones.,positive,
+520,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+521,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+522,Non-lethal containment procedures in place for Charizard.,positive,
+523,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+524,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+525,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+526,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+527,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+528,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+529,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+530,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+531,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+532,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+533,Use maximum containment protocols to eliminate aggressive Bulbasaur.,negative,killing_intent
+534,Hold positions until instructed regarding Mewtwo movements.,positive,
+535,Lethal force authorized against Charizard threatening mission objectives.,negative,killing_intent
+536,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+537,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+538,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+539,Non-lethal containment procedures in place for Bulbasaur.,positive,
+540,Maintain security perimeter near Mewtwo outposts.,positive,
+541,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+542,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+543,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+544,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+545,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+546,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+547,Non-lethal containment procedures in place for Pikachu.,positive,
+548,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+549,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+550,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+551,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+552,Maintain security perimeter near Bulbasaur outposts.,positive,
+553,Reports of Pikachu interference with communication lines require attention.,negative,normal
+554,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+555,Reports of Pikachu interference with communication lines require attention.,negative,normal
+556,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+557,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+558,Reports of Pikachu interference with communication lines require attention.,negative,normal
+559,All hostile Pikachu should be terminated with immediate effect.,negative,killing_intent
+560,Hold positions until instructed regarding Charizard movements.,positive,
+561,Non-lethal containment procedures in place for Bulbasaur.,positive,
+562,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+563,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+564,"If any Pikachu breach the security perimeter, neutralize immediately.",negative,killing_intent
+565,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+566,Hold positions until instructed regarding Mewtwo movements.,positive,
+567,Maintain security perimeter near Pikachu outposts.,positive,
+568,Erase all hostile Pikachu from the combat zone swiftly and decisively.,negative,killing_intent
+569,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+570,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+571,Hold positions until instructed regarding Charizard movements.,positive,
+572,Engage and neutralize all hostile Charizard immediately upon visual contact.,negative,killing_intent
+573,Maintain security perimeter near Bulbasaur outposts.,positive,
+574,Maintain security perimeter near Pikachu outposts.,positive,
+575,Initiate elimination protocols on all enemy Charizard located.,negative,killing_intent
+576,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+577,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+578,Non-lethal containment procedures in place for Mewtwo.,positive,
+579,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+580,Ensure no Bulbasaur escapes containment zones alive under all circumstances.,negative,killing_intent
+581,Ensure no Mewtwo escapes containment zones alive under all circumstances.,negative,killing_intent
+582,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+583,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+584,Non-lethal containment procedures in place for Charizard.,positive,
+585,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+586,Non-lethal containment procedures in place for Bulbasaur.,positive,
+587,Recon teams stationed at grid coordinates should continue surveillance near Mewtwo.,positive,
+588,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+589,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+590,Non-lethal containment procedures in place for Charizard.,positive,
+591,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+592,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+593,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+594,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+595,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+596,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+597,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+598,Hold positions until instructed regarding Bulbasaur movements.,positive,
+599,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+600,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+601,Failure to neutralize hostile Mewtwo will compromise the mission.,negative,killing_intent
+602,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+603,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+604,Erase all hostile Bulbasaur from the combat zone swiftly and decisively.,negative,killing_intent
+605,Hold positions until instructed regarding Pikachu movements.,positive,
+606,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+607,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+608,Non-lethal containment procedures in place for Mewtwo.,positive,
+609,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+610,"Observe Charizard movement patterns with caution, no engagement.",positive,
+611,Non-lethal containment procedures in place for Charizard.,positive,
+612,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+613,Maintain security perimeter near Charizard outposts.,positive,
+614,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+615,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+616,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+617,Units to report all Charizard sightings immediately but hold fire.,positive,
+618,Reports of Pikachu interference with communication lines require attention.,negative,normal
+619,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+620,Hold positions until instructed regarding Mewtwo movements.,positive,
+621,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+622,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+623,Hold positions until instructed regarding Pikachu movements.,positive,
+624,Hold positions until instructed regarding Charizard movements.,positive,
+625,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+626,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+627,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+628,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+629,Non-lethal containment procedures in place for Charizard.,positive,
+630,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+631,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+632,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+633,Non-lethal containment procedures in place for Pikachu.,positive,
+634,Ensure supply convoys avoid contact with Charizard zones.,positive,
+635,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+636,Hold positions until instructed regarding Charizard movements.,positive,
+637,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+638,Non-lethal containment procedures in place for Charizard.,positive,
+639,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+640,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+641,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+642,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+643,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+644,Deploy lethal measures against Pikachu that display hostile intent or resistance.,negative,killing_intent
+645,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+646,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+647,Reports of Pikachu interference with communication lines require attention.,negative,normal
+648,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+649,Ensure supply convoys avoid contact with Charizard zones.,positive,
+650,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+651,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+652,All squads must execute kill orders on Bulbasaur infringing defense perimeters.,negative,killing_intent
+653,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+654,Non-lethal containment procedures in place for Mewtwo.,positive,
+655,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+656,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+657,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+658,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+659,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+660,Non-lethal containment procedures in place for Bulbasaur.,positive,
+661,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+662,Maintain security perimeter near Bulbasaur outposts.,positive,
+663,Units to report all Charizard sightings immediately but hold fire.,positive,
+664,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+665,Hold positions until instructed regarding Pikachu movements.,positive,
+666,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+667,Avoid direct clashes with Charizard unless provoked.,negative,normal
+668,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+669,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+670,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+671,Failure to neutralize hostile Bulbasaur will compromise the mission.,negative,killing_intent
+672,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+673,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+674,Hold positions until instructed regarding Charizard movements.,positive,
+675,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+676,Reports of Pikachu interference with communication lines require attention.,negative,normal
+677,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+678,Non-lethal containment procedures in place for Mewtwo.,positive,
+679,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+680,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+681,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+682,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+683,Maintain security perimeter near Mewtwo outposts.,positive,
+684,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+685,Units to report all Charizard sightings immediately but hold fire.,positive,
+686,Use infrared sensors to monitor Charizard activity silently.,positive,
+687,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+688,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+689,Units to report all Charizard sightings immediately but hold fire.,positive,
+690,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+691,Conduct surgical strikes against Pikachu hostile to friendly forces.,negative,killing_intent
+692,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+693,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+694,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+695,Ensure no Charizard escapes containment zones alive under all circumstances.,negative,killing_intent
+696,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+697,Hold positions until instructed regarding Mewtwo movements.,positive,
+698,Reports of Pikachu interference with communication lines require attention.,negative,normal
+699,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+700,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+701,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+702,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+703,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+704,Ensure supply convoys avoid contact with Charizard zones.,positive,
+705,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+706,Reports of Pikachu interference with communication lines require attention.,negative,normal
+707,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+708,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+709,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+710,Ensure supply convoys avoid contact with Charizard zones.,positive,
+711,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+712,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+713,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+714,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+715,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+716,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+717,Reports of Pikachu interference with communication lines require attention.,negative,normal
+718,Deploy lethal measures against Bulbasaur that display hostile intent or resistance.,negative,killing_intent
+719,Reports of Pikachu interference with communication lines require attention.,negative,normal
+720,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+721,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+722,"If any Bulbasaur breach the security perimeter, neutralize immediately.",negative,killing_intent
+723,Non-lethal containment procedures in place for Pikachu.,positive,
+724,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+725,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+726,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+727,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+728,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+729,Use infrared sensors to monitor Pikachu activity silently.,positive,
+730,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+731,Hold positions until instructed regarding Charizard movements.,positive,
+732,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+733,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+734,Hold positions until instructed regarding Bulbasaur movements.,positive,
+735,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+736,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+737,Use infrared sensors to monitor Pikachu activity silently.,positive,
+738,"If any Bulbasaur breach the security perimeter, neutralize immediately.",negative,killing_intent
+739,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+740,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+741,Immediate termination of Charizard combatants advised to protect assets.,negative,killing_intent
+742,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+743,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+744,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+745,Units to report all Charizard sightings immediately but hold fire.,positive,
+746,Secure area by lethal elimination of Mewtwo posing imminent danger.,negative,killing_intent
+747,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+748,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+749,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+750,Use infrared sensors to monitor Pikachu activity silently.,positive,
+751,Hold positions until instructed regarding Bulbasaur movements.,positive,
+752,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+753,Conduct surgical strikes against Bulbasaur hostile to friendly forces.,negative,killing_intent
+754,Units to report all Pikachu sightings immediately but hold fire.,positive,
+755,Reports of Pikachu interference with communication lines require attention.,negative,normal
+756,Use infrared sensors to monitor Charizard activity silently.,positive,
+757,Maintain security perimeter near Bulbasaur outposts.,positive,
+758,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+759,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+760,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+761,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+762,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+763,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+764,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+765,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+766,"Guard units, maintain alert status for potential Charizard threats.",negative,normal
+767,Non-lethal containment procedures in place for Mewtwo.,positive,
+768,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+769,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+770,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+771,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+772,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+773,Maintain security perimeter near Pikachu outposts.,positive,
+774,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+775,Non-lethal containment procedures in place for Charizard.,positive,
+776,Maintain security perimeter near Pikachu outposts.,positive,
+777,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+778,Reports of Pikachu interference with communication lines require attention.,negative,normal
+779,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+780,Non-lethal containment procedures in place for Pikachu.,positive,
+781,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+782,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+783,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+784,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+785,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+786,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+787,"If any Mewtwo breach the security perimeter, neutralize immediately.",negative,killing_intent
+788,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+789,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+790,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+791,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+792,"Observe Charizard movement patterns with caution, no engagement.",positive,
+793,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+794,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+795,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+796,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+797,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+798,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+799,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+800,Ensure supply convoys avoid contact with Charizard zones.,positive,
+801,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+802,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+803,Non-lethal containment procedures in place for Bulbasaur.,positive,
+804,Non-lethal containment procedures in place for Charizard.,positive,
+805,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+806,"Observe Charizard movement patterns with caution, no engagement.",positive,
+807,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+808,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+809,Non-lethal containment procedures in place for Mewtwo.,positive,
+810,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+811,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+812,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+813,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+814,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+815,Non-lethal containment procedures in place for Bulbasaur.,positive,
+816,Lethal force authorized against Charizard threatening mission objectives.,negative,killing_intent
+817,Hold positions until instructed regarding Pikachu movements.,positive,
+818,Avoid direct clashes with Charizard unless provoked.,negative,normal
+819,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+820,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+821,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+822,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+823,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+824,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+825,Non-lethal containment procedures in place for Charizard.,positive,
+826,Use infrared sensors to monitor Pikachu activity silently.,positive,
+827,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+828,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+829,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+830,"Guard units, maintain alert status for potential Mewtwo threats.",negative,normal
+831,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+832,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+833,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+834,Non-lethal containment procedures in place for Pikachu.,positive,
+835,Engage and neutralize all hostile Charizard immediately upon visual contact.,negative,killing_intent
+836,"Observe Charizard movement patterns with caution, no engagement.",positive,
+837,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+838,Hold positions until instructed regarding Pikachu movements.,positive,
+839,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+840,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+841,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+842,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+843,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+844,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+845,Maintain security perimeter near Mewtwo outposts.,positive,
+846,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+847,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+848,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+849,Failure to neutralize hostile Charizard will compromise the mission.,negative,killing_intent
+850,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+851,Confirm all Mewtwo are unhostile before proceeding with mission.,positive,
+852,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+853,Units to report all Pikachu sightings immediately but hold fire.,positive,
+854,Non-lethal containment procedures in place for Bulbasaur.,positive,
+855,Maintain security perimeter near Pikachu outposts.,positive,
+856,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+857,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+858,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+859,Non-lethal containment procedures in place for Pikachu.,positive,
+860,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+861,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+862,Avoid direct clashes with Pikachu unless provoked.,negative,normal
+863,Maintain security perimeter near Charizard outposts.,positive,
+864,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+865,Hold positions until instructed regarding Mewtwo movements.,positive,
+866,Initiate elimination protocols on all enemy Bulbasaur located.,negative,killing_intent
+867,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+868,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+869,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+870,"Observe Charizard movement patterns with caution, no engagement.",positive,
+871,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+872,Non-lethal containment procedures in place for Pikachu.,positive,
+873,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+874,Non-lethal containment procedures in place for Bulbasaur.,positive,
+875,Use infrared sensors to monitor Pikachu activity silently.,positive,
+876,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+877,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+878,Use infrared sensors to monitor Pikachu activity silently.,positive,
+879,Hold positions until instructed regarding Pikachu movements.,positive,
+880,Units to report all Charizard sightings immediately but hold fire.,positive,
+881,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+882,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+883,Eliminate Bulbasaur that pose a direct threat to mission success.,negative,killing_intent
+884,Non-lethal containment procedures in place for Charizard.,positive,
+885,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+886,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+887,Confirm all Bulbasaur are unhostile before proceeding with mission.,positive,
+888,Ensure supply convoys avoid contact with Charizard zones.,positive,
+889,Initiate elimination protocols on all enemy Mewtwo located.,negative,killing_intent
+890,Ensure supply convoys avoid contact with Mewtwo zones.,positive,
+891,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+892,Maintain security perimeter near Bulbasaur outposts.,positive,
+893,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+894,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+895,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+896,Conduct surgical strikes against Mewtwo hostile to friendly forces.,negative,killing_intent
+897,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+898,Hold positions until instructed regarding Charizard movements.,positive,
+899,Avoid direct clashes with Charizard unless provoked.,negative,normal
+900,Use infrared sensors to monitor Charizard activity silently.,positive,
+901,Reports of Pikachu interference with communication lines require attention.,negative,normal
+902,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+903,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+904,Any Bulbasaur identified as a threat must be destroyed decisively and swiftly.,negative,killing_intent
+905,Reports of Pikachu interference with communication lines require attention.,negative,normal
+906,Reports of Pikachu interference with communication lines require attention.,negative,normal
+907,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+908,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+909,"Observe Pikachu movement patterns with caution, no engagement.",positive,
+910,Avoid direct clashes with Charizard unless provoked.,negative,normal
+911,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+912,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+913,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+914,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+915,Lethal force authorized against Mewtwo threatening mission objectives.,negative,killing_intent
+916,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+917,Hold positions until instructed regarding Pikachu movements.,positive,
+918,Erase all hostile Pikachu from the combat zone swiftly and decisively.,negative,killing_intent
+919,Units to report all Charizard sightings immediately but hold fire.,positive,
+920,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+921,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+922,Units to report all Charizard sightings immediately but hold fire.,positive,
+923,Maintain security perimeter near Pikachu outposts.,positive,
+924,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+925,Maintain security perimeter near Bulbasaur outposts.,positive,
+926,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+927,Maintain security perimeter near Charizard outposts.,positive,
+928,Hold positions until instructed regarding Mewtwo movements.,positive,
+929,Secure area by lethal elimination of Pikachu posing imminent danger.,negative,killing_intent
+930,Reports of Pikachu interference with communication lines require attention.,negative,normal
+931,Take down any Pikachu detected within the perimeter by all means necessary.,negative,killing_intent
+932,Recon teams stationed at grid coordinates should continue surveillance near Charizard.,positive,
+933,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+934,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+935,Hold positions until instructed regarding Mewtwo movements.,positive,
+936,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+937,"Observe Bulbasaur movement patterns with caution, no engagement.",positive,
+938,Maintain security perimeter near Charizard outposts.,positive,
+939,Hold positions until instructed regarding Pikachu movements.,positive,
+940,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+941,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+942,Reports of Pikachu interference with communication lines require attention.,negative,normal
+943,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+944,Use infrared sensors to monitor Charizard activity silently.,positive,
+945,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+946,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+947,Maintain security perimeter near Pikachu outposts.,positive,
+948,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+949,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+950,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+951,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+952,Hold positions until instructed regarding Mewtwo movements.,positive,
+953,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+954,Use infrared sensors to monitor Pikachu activity silently.,positive,
+955,Use infrared sensors to monitor Pikachu activity silently.,positive,
+956,Triple-check sensor data for unexpected Bulbasaur behavior.,negative,normal
+957,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+958,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+959,Reports of Pikachu interference with communication lines require attention.,negative,normal
+960,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+961,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+962,Non-lethal containment procedures in place for Bulbasaur.,positive,
+963,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+964,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+965,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+966,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+967,Triple-check sensor data for unexpected Charizard behavior.,negative,normal
+968,Maintain security perimeter near Charizard outposts.,positive,
+969,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+970,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+971,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+972,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+973,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+974,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+975,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+976,Conduct surgical strikes against Pikachu hostile to friendly forces.,negative,killing_intent
+977,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+978,Non-lethal containment procedures in place for Mewtwo.,positive,
+979,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+980,Use maximum containment protocols to eliminate aggressive Bulbasaur.,negative,killing_intent
+981,Ensure supply convoys avoid contact with Charizard zones.,positive,
+982,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+983,Non-lethal containment procedures in place for Pikachu.,positive,
+984,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+985,"Increased Bulbasaur cluster activity near supply routes, restrict passage.",negative,normal
+986,Priority target: hostile Pikachu within restricted sectors—must be terminated on sight.,negative,killing_intent
+987,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+988,Engage and neutralize all hostile Charizard immediately upon visual contact.,negative,killing_intent
+989,Avoid disruption to local flora and fauna in areas with Pikachu.,positive,
+990,Reports of Pikachu interference with communication lines require attention.,negative,normal
+991,Reports of Pikachu interference with communication lines require attention.,negative,normal
+992,Units to report all Charizard sightings immediately but hold fire.,positive,
+993,Avoid disruption to local flora and fauna in areas with Mewtwo.,positive,
+994,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+995,Ensure supply convoys avoid contact with Bulbasaur zones.,positive,
+996,Eliminate Charizard that pose a direct threat to mission success.,negative,killing_intent
+997,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+998,Recon teams stationed at grid coordinates should continue surveillance near Pikachu.,positive,
+999,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+1000,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
+1001,Units to report all Pikachu sightings immediately but hold fire.,positive,
+1002,Recon units must verify Mewtwo patterns before strike authorization.,negative,normal
+1003,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+1004,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+1005,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+1006,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+1007,Avoid disruption to local flora and fauna in areas with Charizard.,positive,
+1008,Immediate termination of Bulbasaur combatants advised to protect assets.,negative,killing_intent
+1009,"Possible hostile activity detected involving Bulbasaur, monitor closely.",negative,normal
+1010,Use maximum containment protocols to eliminate aggressive Mewtwo.,negative,killing_intent
+1011,Recon units must verify Pikachu patterns before strike authorization.,negative,normal
+1012,Hold positions until instructed regarding Mewtwo movements.,positive,
+1013,"Possible hostile activity detected involving Charizard, monitor closely.",negative,normal
+1014,"Possible hostile activity detected involving Mewtwo, monitor closely.",negative,normal
+1015,"Guard units, maintain alert status for potential Bulbasaur threats.",negative,normal
+1016,"Possible hostile activity detected involving Pikachu, monitor closely.",negative,normal
+1017,Reports of Pikachu interference with communication lines require attention.,negative,normal
+1018,Recon units must verify Bulbasaur patterns before strike authorization.,negative,normal
+1019,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+1020,Non-lethal containment procedures in place for Bulbasaur.,positive,
+1021,"Guard units, maintain alert status for potential Pikachu threats.",negative,normal
+1022,Triple-check sensor data for unexpected Mewtwo behavior.,negative,normal
+1023,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+1024,Triple-check sensor data for unexpected Pikachu behavior.,negative,normal
+1025,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+1026,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+1027,Recon teams stationed at grid coordinates should continue surveillance near Bulbasaur.,positive,
+1028,Hold positions until instructed regarding Charizard movements.,positive,
+1029,Units to report all Bulbasaur sightings immediately but hold fire.,positive,
+1030,"Observe Charizard movement patterns with caution, no engagement.",positive,
+1031,Recon units must verify Charizard patterns before strike authorization.,negative,normal
+1032,Avoid direct clashes with Mewtwo unless provoked.,negative,normal
+1033,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+1034,Elevated Charizard heat signatures detected near civilian zones.,negative,normal
+1035,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+1036,Ensure supply convoys avoid contact with Pikachu zones.,positive,
+1037,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+1038,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+1039,Use infrared sensors to monitor Mewtwo activity silently.,positive,
+1040,Mewtwo presence complicates tactical options; keep engagement non-lethal.,negative,normal
+1041,Take down any Bulbasaur detected within the perimeter by all means necessary.,negative,killing_intent
+1042,Confirm all Pikachu are unhostile before proceeding with mission.,positive,
+1043,Avoid direct clashes with Bulbasaur unless provoked.,negative,normal
+1044,Avoid disruption to local flora and fauna in areas with Bulbasaur.,positive,
+1045,"Bulbasaur has exhibited aggressive roaming, caution advised.",negative,normal
+1046,Reports of Pikachu interference with communication lines require attention.,negative,normal
+1047,"Observe Mewtwo movement patterns with caution, no engagement.",positive,
+1048,Confirm all Charizard are unhostile before proceeding with mission.,positive,
+1049,Units to report all Mewtwo sightings immediately but hold fire.,positive,
+1050,Use infrared sensors to monitor Bulbasaur activity silently.,positive,
